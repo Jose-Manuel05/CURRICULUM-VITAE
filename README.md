@@ -1,16 +1,3 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/free-bootstrap-portfolio-theme-for-web-developers.jpg" alt="Developer Theme" width="750" /></a>
-
-## Detalles del Tema y Demo
-
-**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/
-
-Developer es una plantilla gratuita de Bootstrap 5 diseñada para **ayudar a los desarrolladores a promocionar su trabajo**. 
-Se puede utilizar como un **portal profesional** para tus otros portafolios o sitios web en línea (por ejemplo, Linkedin, Blog, GitHub, etc.) **de manera modular**. 
-La plantilla viene con todos los **archivos SCSS fuente incluidos** para que el estilo/color se pueda personalizar fácilmente a tu gusto.
-
-**Nueva Función - Modo Oscuro**
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2021/07/developer-template-BS5-darkmode.gif" alt="Developer Theme Dark Mode" width="750" /></a>
-
 ## Curriculum Vitae
 
 ### Información Personal
